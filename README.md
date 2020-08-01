@@ -35,4 +35,14 @@ Loss Accuracy Graph:
 <p align="center">
 <img src="https://github.com/Santhoshpsps/Face-Mask-Detection/blob/master/loss.PNG" height="400" width="500">
  </p>
+ 
+ 'with mask'is denoted as 0 and 'without mask'is denoted as  1
+ 
+ Results:
+ 
+ Detected (with mask):
+ 
+ Detected(without mask):
+ 
+ 
 
