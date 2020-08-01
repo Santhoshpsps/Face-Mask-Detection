@@ -31,7 +31,7 @@ After building the model, we compile the model and define the loss function and 
 
 Finally, the CNN model is trained for 15 epochs with two classes, one denoting the class of images with the face masks and the other without face masks.
 
-Loss:
+Loss Accuracy Graph:
 <p align="center">
 <img src="https://github.com/Santhoshpsps/Face-Mask-Detection/blob/master/loss.PNG" height="400" width="500">
  </p>
